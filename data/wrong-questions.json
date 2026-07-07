@@ -1,0 +1,26 @@
+[
+  {
+    "id": "WQ-001",
+    "question": "音楽を聞くながら、勉強します。",
+    "correct_answer": "音楽を聞きながら、勉強します。",
+    "user_answer": "音楽を聞くながら、勉強します。",
+    "mock_analysis": {
+      "summary": "The user used dictionary form before ながら. The correct form is ます-stem + ながら.",
+      "error_type": "verb_form_error",
+      "related_knowledge_ids": ["K-GRA-CON-NAGARA", "K-GRA-VERB-MASU-STEM"],
+      "mastery_effect": [
+        {
+          "knowledge_id": "K-GRA-CON-NAGARA",
+          "before": 86,
+          "after": 82
+        },
+        {
+          "knowledge_id": "K-GRA-VERB-MASU-STEM",
+          "before": 90,
+          "after": 88
+        }
+      ]
+    },
+    "status": "mock"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "KG-GRA-TIME",
+    "name": "Time Expression",
+    "name_cn": "时间表达",
+    "domain": "Grammar"
+  },
+  {
+    "id": "KG-GRA-CONNECTION",
+    "name": "Connection",
+    "name_cn": "连接表达",
+    "domain": "Grammar"
+  },
+  {
+    "id": "KG-GRA-MODALITY",
+    "name": "Mood / Modality",
+    "name_cn": "语气 / 情态",
+    "domain": "Grammar"
+  },
+  {
+    "id": "KG-GRA-VERB-CONJUGATION",
+    "name": "Verb Conjugation",
+    "name_cn": "动词变形",
+    "domain": "Grammar"
+  },
+  {
+    "id": "KG-GRA-PARTICLE",
+    "name": "Particle",
+    "name_cn": "助词",
+    "domain": "Grammar"
+  },
+  {
+    "id": "KG-GRA-CONDITION",
+    "name": "Condition",
+    "name_cn": "条件表达",
+    "domain": "Grammar"
+  },
+  {
+    "id": "KG-VOC-DAILY",
+    "name": "Daily Vocabulary",
+    "name_cn": "日常词汇",
+    "domain": "Vocabulary"
+  },
+  {
+    "id": "KG-KAN-COMMON",
+    "name": "Common Kanji",
+    "name_cn": "常用汉字",
+    "domain": "Kanji"
+  },
+  {
+    "id": "KG-EXP-DAILY",
+    "name": "Daily Expression",
+    "name_cn": "日常表达",
+    "domain": "Expression"
+  }
+]

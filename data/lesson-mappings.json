@@ -1,0 +1,65 @@
+[
+  {
+    "id": "MAP-SJ3-SHIMO-24-001",
+    "lesson_id": "L-SJ3-SHIMO-24",
+    "knowledge_id": "K-GRA-PARTICLE-SHIKASHI",
+    "section": "grammar",
+    "source_status": "seed"
+  },
+  {
+    "id": "MAP-SJ3-SHIMO-27-001",
+    "lesson_id": "L-SJ3-SHIMO-27",
+    "knowledge_id": "K-GRA-TIME-TOKI",
+    "section": "grammar",
+    "source_status": "verified_by_user"
+  },
+  {
+    "id": "MAP-SJ3-SHIMO-27-002",
+    "lesson_id": "L-SJ3-SHIMO-27",
+    "knowledge_id": "K-GRA-TIME-V-DICT-TOKI",
+    "section": "grammar",
+    "source_status": "verified_by_user"
+  },
+  {
+    "id": "MAP-SJ3-SHIMO-27-003",
+    "lesson_id": "L-SJ3-SHIMO-27",
+    "knowledge_id": "K-GRA-TIME-V-TA-TOKI",
+    "section": "grammar",
+    "source_status": "verified_by_user"
+  },
+  {
+    "id": "MAP-SJ3-SHIMO-27-004",
+    "lesson_id": "L-SJ3-SHIMO-27",
+    "knowledge_id": "K-GRA-CON-NAGARA",
+    "section": "grammar",
+    "source_status": "verified_by_user"
+  },
+  {
+    "id": "MAP-SJ3-SHIMO-27-005",
+    "lesson_id": "L-SJ3-SHIMO-27",
+    "knowledge_id": "K-GRA-MOD-DESHOU-CONFIRM",
+    "section": "grammar",
+    "source_status": "verified_by_user"
+  },
+  {
+    "id": "MAP-SJ3-SHIMO-27-006",
+    "lesson_id": "L-SJ3-SHIMO-27",
+    "knowledge_id": "K-VOC-DAILY-JISHIN",
+    "section": "vocabulary",
+    "source_status": "seed"
+  },
+  {
+    "id": "MAP-SJ3-SHIMO-28-001",
+    "lesson_id": "L-SJ3-SHIMO-28",
+    "knowledge_id": "K-GRA-CONDITION-BA",
+    "section": "grammar",
+    "source_status": "seed"
+  },
+  {
+    "id": "MAP-SJ3-SHIMO-29-001",
+    "lesson_id": "L-SJ3-SHIMO-29",
+    "knowledge_id": "K-EXP-DAILY-ONEGAI",
+    "section": "expression",
+    "source_status": "seed"
+  }
+]

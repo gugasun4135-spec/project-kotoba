@@ -1,0 +1,37 @@
+[
+  {
+    "id": "REL-001",
+    "from_knowledge_id": "K-GRA-CON-NAGARA",
+    "to_knowledge_id": "K-GRA-VERB-MASU-STEM",
+    "relationship_type": "prerequisite",
+    "description": "〜ながら requires understanding of the verb ます-stem."
+  },
+  {
+    "id": "REL-002",
+    "from_knowledge_id": "K-GRA-TIME-V-DICT-TOKI",
+    "to_knowledge_id": "K-GRA-TIME-V-TA-TOKI",
+    "relationship_type": "confusing",
+    "description": "Learners often confuse dictionary-form + 時 and past-form + 時."
+  },
+  {
+    "id": "REL-003",
+    "from_knowledge_id": "K-GRA-TIME-V-TA-TOKI",
+    "to_knowledge_id": "K-GRA-TIME-V-DICT-TOKI",
+    "relationship_type": "confusing",
+    "description": "Learners often confuse past-form + 時 and dictionary-form + 時."
+  },
+  {
+    "id": "REL-004",
+    "from_knowledge_id": "K-GRA-CON-NAGARA",
+    "to_knowledge_id": "K-GRA-TIME-TOKI",
+    "relationship_type": "related",
+    "description": "Both describe actions in relation to time."
+  },
+  {
+    "id": "REL-005",
+    "from_knowledge_id": "K-GRA-CON-NAGARA",
+    "to_knowledge_id": "K-GRA-TIME-V-DICT-TOKI",
+    "relationship_type": "contrast",
+    "description": "ながら focuses on simultaneous actions; 時 marks a time background."
+  }
+]
